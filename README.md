@@ -16,5 +16,12 @@ Here are the ideas and systems that influenced the design, structure, and workfl
 - Nikolas Luhmann's [Zettelksten](https://zettelkasten.de/introduction/) system as described in Sonke Ahrens' [Taking Smart Notes: One Simple Technique](https://www.amazon.com/How-Take-Smart-Notes-Technique-ebook/dp/B09V5M8FR5/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=)  
 - Andy Matuschak's [Evergreen Notes](https://notes.andymatuschak.org/Evergreen_notes)
 - Parts of Tiago Forte's [Second Brain](https://www.amazon.com/Building-Second-Brain-Organize-Potential/dp/1982167386)
-- The [Johnny Decimal System] to keep things nice and organized.
+- The [Johnny Decimal System](https://johnnydecimal.com/) to keep things nice and organized.
 
+## Tools Needed for the System
+- [Obsidian](https://obsidian.md)
+- A general knowledge of [Markdown](https://daringfireball.net/projects/markdown/).
+- The [Minimal Obsidian Theme](https://minimal.guide/Home) or a similar theme that has custom checkboxes (I use those for bullet journal signifiers).  I would also recommend the [Minimal Settings Plugin](https://github.com/kepano/obsidian-minimal-settings) and [Contextual Typography Plugin](https://github.com/mgmeyers/obsidian-contextual-typography) as well.
+- The [Templater Plugin](https://github.com/SilentVoid13/Templater) for templates, snippets, and small macros.
+- The [Calendar Plugin](https://github.com/liamcain/obsidian-calendar-plugin) to track daily and weekly notes.
+- The [Periodic Notes](https://github.com/liamcain/obsidian-periodic-notes) for daily, weekly, and monthly journals.
