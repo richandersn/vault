@@ -25,3 +25,5 @@ Here are the ideas and systems that influenced the design, structure, and workfl
 - The [Templater Plugin](https://github.com/SilentVoid13/Templater) for templates, snippets, and small macros.
 - The [Calendar Plugin](https://github.com/liamcain/obsidian-calendar-plugin) to track daily and weekly notes.
 - The [Periodic Notes](https://github.com/liamcain/obsidian-periodic-notes) for daily, weekly, and monthly journals.
+- [Advanced Tables](https://github.com/tgrosinger/advanced-tables-obsidian) and [Outliner](https://github.com/vslinko/obsidian-outliner) plugins to make tables and outlines easier to deal with.
+- The [Dataview](https://github.com/blacksmithgu/obsidian-dataview) for gathering and analyzing notes.
