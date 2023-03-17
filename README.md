@@ -27,3 +27,11 @@ Here are the ideas and systems that influenced the design, structure, and workfl
 - The [Periodic Notes](https://github.com/liamcain/obsidian-periodic-notes) for daily, weekly, and monthly journals.
 - [Advanced Tables](https://github.com/tgrosinger/advanced-tables-obsidian) and [Outliner](https://github.com/vslinko/obsidian-outliner) plugins to make tables and outlines easier to deal with.
 - The [Dataview](https://github.com/blacksmithgu/obsidian-dataview) for gathering and analyzing notes.
+
+## Vault Structure
+- **10 Journal**: Daily, Weekly, and Monthly journals go here. 
+- **20 Reference:** Reference documents go here.
+- **30 Notes:** This is the zettelkasten.
+	- **31 Fleeting**: Fleeting or temporary notes go here.
+	- **32 Literature:** Literature notes go here.
+	- **33 Evergreen:** Permanent notes.
